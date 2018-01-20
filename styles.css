@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+}
+
+h1	{	
+	font-size: 65px;
+	/*background-color: black;*/
+	position: absolute; /* sobrepor*/
+	margin-top: 30px;
+	margin-left: 100px;
+	width: 100%;
+	text-align: center;
+}
+
+h1,h2{
+	font-size: 30px;
+}
+
+img	{
+	width: 100%;
+}
+
+p{
+	font-size: 16px;
+	margin: 10px;
+	line-height: 30px;
+}
+div{
+	margin: 20px;
+}
